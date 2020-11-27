@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://wofoveb.github.io/sitemap.xsl"?>
+<!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
+<!-- generated-on="November 27, 2020 6:31 am" -->
+<sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	
+	<sitemap>
+		<loc>https://wofoveb.github.io/sitemap-001.xml</loc>
+		<lastmod>2020-11-27T02:59:26+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://wofoveb.github.io/sitemap-002.xml</loc>
+		<lastmod>2020-11-17T02:44:12+00:00</lastmod>
+	</sitemap>
+</sitemapindex>
+<!-- Request ID: 1cb5d7a69f15a0b08484bc1b594e90ba; Queries for sitemap: 3; Total queries: 7; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 2MB -->
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 104/116 objects using disk
+Page Caching using disk: enhanced (Page is feed) 
+Database Caching 1/8 queries in 0.003 seconds using disk
+
+Served from: winpoin.com @ 2020-11-27 13:31:47 by W3 Total Cache
+-->
